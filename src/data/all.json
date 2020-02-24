@@ -1,0 +1,284 @@
+[
+  {
+    "slug": "brinco",
+    "color": "#3B51B5",
+    "name": "Brinco",
+    "heading": "El Binco de Hoy - al instante -",
+    "winHeader": "Numeros Premiados",
+    "winningNums": ["10", "06", "30", "02", "13"],
+    "tableHeaders": ["Premio", "Apuestas Ganadoras", "Premio por Apuesta ($)"],
+    "tableData": [
+      {
+        "rowData": ["3 aciertos", "12.734", "32"]
+      },
+      {
+        "rowData": ["4 aciertos", "1.066", "55"]
+      },
+      {
+        "rowData": ["5 aciertos", "23", "88"]
+      },
+      {
+        "rowData": ["6 aciertos", "11", "10"]
+      }
+    ],
+    "prize": ["Pozo Estimado para la Proxima Jugada", "73,000,000"],
+    "prizeHeadColor": "black",
+    "description": [
+      "La Quiniela es un juego de azar muy común en Argentina, de hecho el más famoso y de mayor arrastre. Dicho juego está bajo el control de la Loterías de cada una de las Provincias del país. En la mayoría de los casos la jurisdicción de cada Provincia establece el llamado tope de banca.",
+      "La quiniela se compone de un grupo de 20 números de 4 cifras, que van desde unidades a unidades de millar, los números corresponden a 20 recompensas, una por cada uno. Los números se definen usando cinco máquinas bolilleras de tipo manual o automatizado La primer bola da lugar a la unidad de millar de la cifra, la bola siguiente a la centena, y así sucesivamente hasta el extracto.",
+      "Las quinielas más famosas son las que se efectúan en las jurisdicciones más importantes de la Nación, desde luego en la zona metropolitana: Ciudad de Buenos Aires, y el Gran Buenos Aires. Un detalle importante es que en la Ciudad y GBA se trabaja en forma de sorteo de letras, lo cual significa que a cada apostador se les dan aleatoriamente 4 letras y son las 4 letras las que participan en la quiniela.",
+      "El nivel económico de la recompensa en juego se decide en la programación de los organizadores. Otras que también revisten importante relevancia son las que se llevan a cabo en las jurisdicciones de: Provincia de Entre Ríos y Provincia de Santa Fe."
+    ]
+  },
+  {
+    "slug": "loto5",
+    "bgImg": { "headColor": "38,45,49" },
+    "color": "#0F067D",
+    "heading": "El Loto de Hoy - al instante -",
+    "name": "Loto Plus",
+    "textColor": "white",
+    "sort": { "sorteo": "1448", "Fetcha": "19/1/2020" },
+    "winningNums": [
+      "10",
+      "06",
+      "30",
+      "02",
+      "13",
+      "10",
+      "22",
+      "12",
+      "55",
+      "65",
+      "14",
+      "31",
+      "44",
+      "67",
+      "69"
+    ],
+    "tableHeaders": ["Categoria", "# De Ganadores ", "Premio $ C/U"],
+    "tableData": [
+      {
+        "rowData": ["3 aciertos", "12.734", "32"]
+      },
+      {
+        "rowData": ["4 aciertos", "1.066", "55"]
+      },
+      {
+        "rowData": ["5 aciertos", "23", "88"]
+      },
+      {
+        "rowData": ["6 aciertos", "11", "10"]
+      }
+    ],
+    "backgroundColor": "44,48,120",
+    "prize": ["Pozo Estimado 15 Aciertos Para El Proximo Sorteo", "73,000,000"],
+    "description": [
+      "La Quiniela es un juego de azar muy común en Argentina, de hecho el más famoso y de mayor arrastre. Dicho juego está bajo el control de la Loterías de cada una de las Provincias del país. En la mayoría de los casos la jurisdicción de cada Provincia establece el llamado tope de banca.",
+      "La quiniela se compone de un grupo de 20 números de 4 cifras, que van desde unidades a unidades de millar, los números corresponden a 20 recompensas, una por cada uno. Los números se definen usando cinco máquinas bolilleras de tipo manual o automatizado La primer bola da lugar a la unidad de millar de la cifra, la bola siguiente a la centena, y así sucesivamente hasta el extracto.",
+      "Las quinielas más famosas son las que se efectúan en las jurisdicciones más importantes de la Nación, desde luego en la zona metropolitana: Ciudad de Buenos Aires, y el Gran Buenos Aires. Un detalle importante es que en la Ciudad y GBA se trabaja en forma de sorteo de letras, lo cual significa que a cada apostador se les dan aleatoriamente 4 letras y son las 4 letras las que participan en la quiniela.",
+      "El nivel económico de la recompensa en juego se decide en la programación de los organizadores. Otras que también revisten importante relevancia son las que se llevan a cabo en las jurisdicciones de: Provincia de Entre Ríos y Provincia de Santa Fe."
+    ]
+  },
+  {
+    "slug": "telekino",
+    "bgImg": {},
+    "color": "#FD7D1B",
+    "heading": "El Tele de Hoy - al instante -",
+    "name": "Tele Kino",
+    "sort": { "sorteo": "1448", "Fetcha": "19/1/2020" },
+    "winningNums": [
+      "10",
+      "06",
+      "30",
+      "02",
+      "13",
+      "10",
+      "22",
+      "12",
+      "55",
+      "65",
+      "14",
+      "31",
+      "44",
+      "67",
+      "69"
+    ],
+    "tableHeaders": ["Premio", "Apuestas Ganadoras", "Premio por Apuesta ($)"],
+    "tableData": [
+      {
+        "rowData": ["3 aciertos", "12.734", "32"]
+      },
+      {
+        "rowData": ["4 aciertos", "1.066", "55"]
+      },
+      {
+        "rowData": ["5 aciertos", "23", "88"]
+      },
+      {
+        "rowData": ["6 aciertos", "11", "10"]
+      }
+    ],
+    "prize": ["Pozo Estimado 15 Aciertos Para El Proximo Sorteo", "73,000,000"],
+    "backgroundColor": "253,125,27",
+    "transparent": true,
+    "rekino": {
+      "tableHeaders1": ["Categoria", "# De Ganadores", "Premio $ C/U"],
+      "tableData1": [
+        {
+          "rowData": ["14 aciertos", "54", "$9.058"]
+        }
+      ],
+      "tableHeaders2": ["# De carton", "Premio $ C/U"],
+      "tableData2": [
+        {
+          "rowData": ["0.170.999", "$8.122"]
+        },
+        {
+          "rowData": ["0.170.999", "$8.122"]
+        },
+        {
+          "rowData": ["0.170.999", "$8.122"]
+        },
+        {
+          "rowData": ["0.170.999", "$8.122"]
+        },
+        {
+          "rowData": ["0.170.999", "$8.122"]
+        },
+        {
+          "rowData": ["0.170.999", "$8.122"]
+        }
+      ],
+      "sort": {
+        "Numero": "1448",
+        "Fetcha": "19/1/2020",
+        "Color del Carton": "violeta"
+      },
+      "total": {
+        "Caducidad": "19/1/2020",
+        "totalde": "109.730",
+        "totalen": "$450,000"
+      },
+      "winningNums": [
+        "10",
+        "06",
+        "30",
+        "02",
+        "13",
+        "10",
+        "22",
+        "12",
+        "55",
+        "65",
+        "14",
+        "31",
+        "44",
+        "67",
+        "69"
+      ]
+    },
+    "description": [
+      "La Quiniela es un juego de azar muy común en Argentina, de hecho el más famoso y de mayor arrastre. Dicho juego está bajo el control de la Loterías de cada una de las Provincias del país. En la mayoría de los casos la jurisdicción de cada Provincia establece el llamado tope de banca.",
+      "La quiniela se compone de un grupo de 20 números de 4 cifras, que van desde unidades a unidades de millar, los números corresponden a 20 recompensas, una por cada uno. Los números se definen usando cinco máquinas bolilleras de tipo manual o automatizado La primer bola da lugar a la unidad de millar de la cifra, la bola siguiente a la centena, y así sucesivamente hasta el extracto.",
+      "Las quinielas más famosas son las que se efectúan en las jurisdicciones más importantes de la Nación, desde luego en la zona metropolitana: Ciudad de Buenos Aires, y el Gran Buenos Aires. Un detalle importante es que en la Ciudad y GBA se trabaja en forma de sorteo de letras, lo cual significa que a cada apostador se les dan aleatoriamente 4 letras y son las 4 letras las que participan en la quiniela.",
+      "El nivel económico de la recompensa en juego se decide en la programación de los organizadores. Otras que también revisten importante relevancia son las que se llevan a cabo en las jurisdicciones de: Provincia de Entre Ríos y Provincia de Santa Fe."
+    ]
+  },
+  {
+    "slug": "quiniela_poceada",
+    "color": "#49C765",
+    "heading": "Quiniela Poceada de Hoy - al instante -",
+    "name": "Toto Bingo",
+    "sort": { "sorteo": "1448", "Fetcha": "19/1/2020" },
+    "winningNums": [
+      "10",
+      "06",
+      "30",
+      "02",
+      "13",
+      "10",
+      "22",
+      "12",
+      "55",
+      "65",
+      "14",
+      "31",
+      "44",
+      "67",
+      "69"
+    ],
+    "tableHeaders": ["Premio", "Apuestas Ganadoras", "Premio por Apuesta ($)"],
+    "tableData": [
+      {
+        "rowData": ["3 aciertos", "12.734", "32"]
+      },
+      {
+        "rowData": ["4 aciertos", "1.066", "55"]
+      },
+      {
+        "rowData": ["5 aciertos", "23", "88"]
+      },
+      {
+        "rowData": ["6 aciertos", "11", "10"]
+      }
+    ],
+    "description": [
+      "El Toto Bingo es un juego de azar versión simplificada del bingo pero a gran escala, perteneciente a Lotería de la Provincia de Córdoba Sociedad del Estado. Lotería de la Provincia de Córdoba Sociedad del Estado tiene por objeto la organización, dirección, administración y explotación de juegos de azar, en particular loterías, casinos, rifas, tómbolas, bonos de contribución y actividades concurrentes y afines.  ",
+      "El Toto Bingo se vende en diversas provincias:  Provincia de Córdoba, Ciudad de Buenos Aires, Capital Federal, Provincia de Santa Fe, San Luis y Jujuy. Toto Bingo, consiste en un boleto preimpreso con dos zonas de juego. El cartón de juego, identificado por número de sorteo y número de cartón, las 2 zonas de juego son Ganá o Ganá con la modalidad Sortea hasta que Sale y Pozo Millonario). ",
+      "En el evento correspondiente se empieza por la extracción de bolillas para el Juego 1 hasta que el sistema informático detecta e informa la aparición de ganadores y luego se efectúa la extracción de bolillas para el Juego 2. De existir pozos vacantes, en cualquier categoría, el monto generado en ese sorteo se incorporará al monto destinado para el Pozo del Premio Mayor.",
+      "El sorteo se realiza todos los domingos a las 11:55 horas y puede verse en el Canal 13 de Rio Cuarto y Crónica TV para todo el país. La prescripción de los premios se encuentra establecida en el Reglamento de cada uno de los juegos y detallada en la Programación vigente de los mismos."
+    ]
+  },
+  {
+    "slug": "quinielaplus",
+    "color": "#E3013B",
+    "heading": "Quini Plus de Hoy - al instante -",
+    "name": "Quini Plus",
+    "sort": { "sorteo": "1448", "Fetcha": "19/1/2020", "color": "#E3003B" },
+    "winHeader": "Numeros Ganadores",
+    "winningNums": [
+      "10",
+      "06",
+      "30",
+      "02",
+      "13",
+      "10",
+      "22",
+      "12",
+      "55",
+      "65",
+      "14",
+      "31",
+      "44",
+      "67",
+      "69"
+    ],
+    "tableHeaders": ["Premio", "Apuestas Ganadoras", "Premio por Apuesta ($)"],
+    "tableData": [
+      {
+        "rowData": ["3 aciertos", "12.734", "32"]
+      },
+      {
+        "rowData": ["4 aciertos", "1.066", "55"]
+      },
+      {
+        "rowData": ["5 aciertos", "23", "88"]
+      },
+      {
+        "rowData": ["6 aciertos", "11", "10"]
+      },
+      {
+        "rowData": ["10 aciertos", "16", "5"]
+      },
+      {
+        "rowData": ["12 aciertos", "15", "40"]
+      }
+    ],
+    "description": [
+      "El Toto Bingo es un juego de azar versión simplificada del bingo pero a gran escala, perteneciente a Lotería de la Provincia de Córdoba Sociedad del Estado. Lotería de la Provincia de Córdoba Sociedad del Estado tiene por objeto la organización, dirección, administración y explotación de juegos de azar, en particular loterías, casinos, rifas, tómbolas, bonos de contribución y actividades concurrentes y afines.  ",
+      "El Toto Bingo se vende en diversas provincias:  Provincia de Córdoba, Ciudad de Buenos Aires, Capital Federal, Provincia de Santa Fe, San Luis y Jujuy. Toto Bingo, consiste en un boleto preimpreso con dos zonas de juego. El cartón de juego, identificado por número de sorteo y número de cartón, las 2 zonas de juego son Ganá o Ganá con la modalidad Sortea hasta que Sale y Pozo Millonario). ",
+      "En el evento correspondiente se empieza por la extracción de bolillas para el Juego 1 hasta que el sistema informático detecta e informa la aparición de ganadores y luego se efectúa la extracción de bolillas para el Juego 2. De existir pozos vacantes, en cualquier categoría, el monto generado en ese sorteo se incorporará al monto destinado para el Pozo del Premio Mayor.",
+      "El sorteo se realiza todos los domingos a las 11:55 horas y puede verse en el Canal 13 de Rio Cuarto y Crónica TV para todo el país. La prescripción de los premios se encuentra establecida en el Reglamento de cada uno de los juegos y detallada en la Programación vigente de los mismos."
+    ]
+  }
+]

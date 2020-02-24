@@ -1,0 +1,8 @@
+name = "quiniela"
+type = "webpack"
+account_id = "f5e2ae9c0a640d5ee6dd1addc96cc804"
+workers_dev = true
+
+[site]
+bucket = "./public" # <-- Add your build directory name here!
+entry-point = "workers-site"

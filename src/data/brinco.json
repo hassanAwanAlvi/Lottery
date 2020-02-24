@@ -1,0 +1,46 @@
+[
+  {
+    "name": "3 aciertos",
+    "values": {
+      "winningBet": {
+        "value": 6.914
+      },
+      "betAward": {
+        "value": "35"
+      }
+    }
+  },
+  {
+    "name": "4 aciertos",
+    "values": {
+      "winningBet": {
+        "value": 357
+      },
+      "betAward": {
+        "value": "473,88"
+      }
+    }
+  },
+  {
+    "name": "5 aciertos",
+    "values": {
+      "winningBet": {
+        "value": 10
+      },
+      "betAward": {
+        "value": "51.265,02"
+      }
+    }
+  },
+  {
+    "name": "5 aciertos",
+    "values": {
+      "winningBet": {
+        "value": "VACANTE"
+      },
+      "betAward": {
+        "value": "78.259.222,70"
+      }
+    }
+  }
+]

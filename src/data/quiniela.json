@@ -1,0 +1,200 @@
+[
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Ciudad"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Provincia"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Montevideo"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Santa Fe"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Cordoba"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Entre Rios"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Mendoza"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Santiago"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Corrientes"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Chaco"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Neuqu\u00e9n"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "San Luis"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Salta"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Jujuy"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Tucum\u00e1n"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Chubut"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Formosa"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Misiones"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "Catamarca"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "San Juan"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "La Rioja"
+  },
+  {
+    "values": {
+      "Nocturna": { "value": null },
+      "Matutina": { "value": null },
+      "Primera": { "value": null },
+      "Vespertina": { "value": null }
+    },
+    "name": "R\u00edo Negro"
+  }
+]
